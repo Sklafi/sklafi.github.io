@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/school-library/static/css/main.5b068bca.css",
-    "main.js": "/school-library/static/js/main.25f922db.js",
-    "index.html": "/school-library/index.html",
-    "main.5b068bca.css.map": "/school-library/static/css/main.5b068bca.css.map",
-    "main.25f922db.js.map": "/school-library/static/js/main.25f922db.js.map"
+    "main.css": "/gh-pages/static/css/main.5b068bca.css",
+    "main.js": "/gh-pages/static/js/main.25f922db.js",
+    "index.html": "/gh-pages/index.html",
+    "main.5b068bca.css.map": "/gh-pages/static/css/main.5b068bca.css.map",
+    "main.25f922db.js.map": "/gh-pages/static/js/main.25f922db.js.map"
   },
   "entrypoints": [
     "static/css/main.5b068bca.css",
